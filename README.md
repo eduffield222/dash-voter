@@ -1,7 +1,7 @@
-Dash2T
+Dash Voter
 ==============
 
-Dash second tier websockets
+Dash private masternode voting
 
 Installation
 ------------
